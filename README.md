@@ -1,4 +1,4 @@
-# nats-messaging-for-nifi
+# nats-messaging-for-nifi ![build status](https://travis-ci.org/mring33621/nats-messaging-for-nifi.svg?branch=master)
 Initial release of [NATS Messaging](http://nats.io/) processors for Apache [NiFi](http://nifi.apache.org/)
 
 Version 0.5.0
