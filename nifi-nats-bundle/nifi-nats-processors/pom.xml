@@ -19,10 +19,12 @@
     <parent>
         <groupId>com.mattring</groupId>
         <artifactId>nifi-nats-bundle</artifactId>
-        <version>0.5.0</version>
+        <version>0.5.1</version>
     </parent>
 
+    <groupId>com.mattring</groupId>
     <artifactId>nifi-nats-processors</artifactId>
+    <version>0.5.1</version>
     <packaging>jar</packaging>
 
     <dependencies>
